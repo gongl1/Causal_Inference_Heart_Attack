@@ -1,1 +1,1 @@
-![1-Logo](prevention.jpg)
+![1-Logo](prevention.png)
