@@ -1,6 +1,6 @@
 ![1-Logo](prevention.png)
 
-Business Problem & Objectives
+**Business Problem & Objectives**
 
 Heart disease is a leading cause of death for people of most races in US.
 
